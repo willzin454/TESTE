@@ -27,15 +27,19 @@ volei jogador(){
     protected nome = somente da mesma familia
 }
 
-public String gat cor(){    (get )
+public String getCor(){             
     return this.cor;
 }
 
-public void set cor(String cor){    (set vai sermpre retornar um valor)
+public void setCor(String cor){    (set vai sempre retornar um valor)
     this.cor = cor
 }
 
+---Aula 02/05/23---
+
 - private
-+ public
++ public ()
 # protected
 ~ default
+
+
