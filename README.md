@@ -34,3 +34,8 @@ public String gat cor(){    (get )
 public void set cor(String cor){    (set vai sermpre retornar um valor)
     this.cor = cor
 }
+
+- private
++ public
+# protected
+~ default
