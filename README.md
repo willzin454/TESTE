@@ -33,7 +33,10 @@ public String getCor(){
 
 public void setCor(String cor){    (set vai sempre retornar um valor)
     this.cor = cor
+    
 }
+
+// Ctrl + Shift + O = Organiza todos os imports do código.
 
 ---Aula 02/05/23---
 
